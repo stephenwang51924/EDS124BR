@@ -1,3 +1,3 @@
 # EDS124BR Teaching Portfolio
 
-## Explaining Your Program: https://youtu.be/J9DTVehvqTo
+### Sequences Code Explanation Video: https://youtu.be/J9DTVehvqTo
