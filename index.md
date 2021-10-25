@@ -7,3 +7,5 @@
 [Worksheet Quest Code Explanation Video](https://youtu.be/Ez_1iKYW0bk)
 
 [Nested Repeats Code Explanation Video](https://youtu.be/oTLZZ0ktX04)
+
+[Events Code Explanation Video](https://youtu.be/qSnKM5_H0tQ)
