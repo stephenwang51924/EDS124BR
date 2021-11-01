@@ -9,3 +9,5 @@
 [Nested Repeats Code Explanation Video](https://youtu.be/oTLZZ0ktX04)
 
 [Events Code Explanation Video](https://youtu.be/qSnKM5_H0tQ)
+
+[Variables Code Explanation Video](https://youtu.be/FDvfexsySfo)
