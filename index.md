@@ -19,3 +19,5 @@
 [Nested If-Else Code Explanation Video](https://youtu.be/YFvnPhvXmmc)
 
 [Compound Conditionals Code Explanation Video](https://youtu.be/B75SWI6uUfE)
+
+[Abstraction Code Explanation Video](https://youtu.be/Ca5w-TcaPxU)
